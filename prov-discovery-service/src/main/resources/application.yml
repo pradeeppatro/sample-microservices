@@ -1,0 +1,11 @@
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  datacenter: Bangalore
+  environment: Production
+        
+      
+
+server:
+  port: 9099    

@@ -1,0 +1,9 @@
+server:
+  port: 9091
+  
+spring:
+  profiles:
+    active: native
+  
+         
+      
